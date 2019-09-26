@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepuveevi.moldabledevelopment.com/sitemap.xml
